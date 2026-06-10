@@ -1,0 +1,16 @@
+Week 4 Results - NACA 0012 Surrogate Model (K-Fold)
+====================================================
+Architecture  : 2 -> 64 -> 128 -> 64 -> 2  (Tanh activation)
+Parameters    : 16898
+Epochs        : 5000
+Learning rate : 0.001 with CosineAnnealingLR
+
+5-Fold Cross-Validation
+  Mean Cl R2 : 0.9730 +/- 0.0468
+  Mean Cd R2 : 0.6765 +/- 0.3655
+
+Final model (trained on all 48 samples)
+  Cl  R2   : 0.9999
+  Cl  RMSE : 0.00623
+  Cd  R2   : 0.9999
+  Cd  RMSE : 0.000779
