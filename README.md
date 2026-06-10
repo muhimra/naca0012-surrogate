@@ -94,7 +94,7 @@ output_week5/                Validation plots and report
 
 ## Background
 
-Built as a first-year MEng Mechanical Engineering portfolio project at the University of Glasgow.
+
 Surrogate modelling is an industrial technique used by Airbus, Boeing, and Formula 1 teams to
 replace expensive simulation runs with fast neural network approximations during design iteration.
 
