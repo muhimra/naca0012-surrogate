@@ -78,11 +78,6 @@ python week6_assistant.py
   overprediction of skin friction drag, a known characteristic at low AoA
 - **Stall:** Steady RANS diverges from experiment above ~14 deg as expected
 
-  ## Plots
-
-![Cl vs Alpha](output_week3/Cl_vs_alpha.png)
-![Validation](output_week5/surrogate_vs_nasa_Cl.png)
-![Speedup](output_week5/speedup_comparison.png)
 
 ## Project Structure
 
