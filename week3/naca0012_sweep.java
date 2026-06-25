@@ -14,7 +14,7 @@ public class naca0012_sweep extends StarMacro {
     static final String INLET_REGION = "Body 2.inlet";
     static final String LIFT_REPORT  = "Lift Coefficient";
     static final String DRAG_REPORT  = "Drag Coefficient";
-    static final String OUTPUT_CSV   = "C:/Users/3135581I/OneDrive - University of Glasgow/Personal/CFD SIM STAR/naca0012_sweep.csv";
+    static final String OUTPUT_CSV   = "";
     static final double NU           = 1.5e-5;   // kinematic viscosity air ~20°C
     static final double CHORD        = 1.0;       // chord length (m)
     static final int    MAX_ITER     = 500;       // iterations per case
