@@ -33,7 +33,7 @@ configurations for given flight conditions.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/naca0012-surrogate
+git clone https://github.com/muhimra/naca0012-surrogate
 cd naca0012-surrogate
 pip install -r requirements.txt
 ```
